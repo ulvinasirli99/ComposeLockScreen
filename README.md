@@ -9,13 +9,13 @@ This sample showcases:
 * Dark and Light Theme
 
 # Day Mode 🌞
-[![Lock Screen Day Mode](https://github.com/Umesh-Patidar/ComposeLockScreen/blob/main/results/Screenshot_Day_Theme.png)](#features)
+<img src="https://github.com/Umesh-Patidar/ComposeLockScreen/blob/main/results/Screenshot_Day_Theme.png" width="200" height="400"/>
 
 # Night Mode 🌚
-[![Lock Screen Night Mode](https://github.com/Umesh-Patidar/ComposeLockScreen/blob/main/results/Screenshot_Dark_Theme.png)](#features)
+<img src="https://github.com/Umesh-Patidar/ComposeLockScreen/blob/main/results/Screenshot_Dark_Theme.png" width="200" height="400"/>
 
 # Lock Screen Video
-[![Lock Screen Video](https://github.com/Umesh-Patidar/ComposeLockScreen/blob/main/results/screen_video.gif)](#features)
+<img src="https://github.com/Umesh-Patidar/ComposeLockScreen/blob/main/results/screen_video.gif" width="200" height="400"/>
 
 # Built With 🛠
 [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
